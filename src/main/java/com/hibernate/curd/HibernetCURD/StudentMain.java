@@ -44,7 +44,7 @@ public class StudentMain
     		System.out.println("Thanks ");
     		}
     	
-    	System.out.println("Thanku" );
+    	System.out.println("Thanku user " );
     	System.exit(0);
     	}
     	
